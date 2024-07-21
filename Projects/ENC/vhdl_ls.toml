@@ -1,0 +1,12 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'ENC.vhd',
+	'ENC_tb.vhd'
+]
+[libraries.work]
+files = [
+	'ENC.vhd',
+	'ENC_tb.vhd'
+]
+# auto-generated-end

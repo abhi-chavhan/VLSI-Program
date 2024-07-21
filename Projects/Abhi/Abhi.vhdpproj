@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="Generated/Abhi.vhd" />
+    <File Include="Abhi.vhdp" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>Abhi.vhdp</HardwareStartPath>
+  </PropertyGroup>
+</Project>

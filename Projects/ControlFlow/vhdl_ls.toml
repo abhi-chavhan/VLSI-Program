@@ -1,0 +1,12 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'ControlFlow.vhd',
+	'ControlFlow_tb.vhd'
+]
+[libraries.work]
+files = [
+	'ControlFlow.vhd',
+	'ControlFlow_tb.vhd'
+]
+# auto-generated-end

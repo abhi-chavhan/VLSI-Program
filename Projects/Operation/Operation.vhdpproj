@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="Airthnatic.vhd" />
+    <File Include="Operation_Sim.ghdp" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>Operation.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

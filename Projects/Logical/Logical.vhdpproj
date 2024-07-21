@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="Logical.vhd" />
+    <File Include="Logical_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>Logical.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

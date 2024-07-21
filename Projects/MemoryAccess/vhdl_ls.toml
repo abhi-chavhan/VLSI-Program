@@ -1,0 +1,12 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'MemoryAccess.vhd',
+	'MemoryAccess_tb.vhd'
+]
+[libraries.work]
+files = [
+	'MemoryAccess.vhd',
+	'MemoryAccess_tb.vhd'
+]
+# auto-generated-end

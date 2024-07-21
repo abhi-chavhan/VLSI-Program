@@ -1,0 +1,10 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'Airthnatic.vhd'
+]
+[libraries.work]
+files = [
+	'Airthnatic.vhd'
+]
+# auto-generated-end

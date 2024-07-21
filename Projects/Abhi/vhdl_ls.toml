@@ -1,0 +1,10 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'Generated/Abhi.vhd'
+]
+[libraries.work]
+files = [
+	'Generated/Abhi.vhd'
+]
+# auto-generated-end

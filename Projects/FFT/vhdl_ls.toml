@@ -1,0 +1,12 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'FFT.vhd',
+	'FFT_tb.vhd'
+]
+[libraries.work]
+files = [
+	'FFT.vhd',
+	'FFT_tb.vhd'
+]
+# auto-generated-end

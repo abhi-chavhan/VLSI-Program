@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="CustomInstructions.vhd" />
+    <File Include="CustomInstructions_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>CustomInstructions.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

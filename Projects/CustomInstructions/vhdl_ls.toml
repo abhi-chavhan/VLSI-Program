@@ -1,0 +1,12 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'CustomInstructions.vhd',
+	'CustomInstructions_tb.vhd'
+]
+[libraries.work]
+files = [
+	'CustomInstructions.vhd',
+	'CustomInstructions_tb.vhd'
+]
+# auto-generated-end

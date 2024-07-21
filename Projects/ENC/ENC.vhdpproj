@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="ENC.vhd" />
+    <File Include="ENC_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>ENC.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

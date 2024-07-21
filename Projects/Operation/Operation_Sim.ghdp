@@ -1,0 +1,30 @@
+Component ArithmeticUnit_tb()
+{
+    SIGNAL finished : STD_LOGIC:= '0';
+    CONSTANT period_time : TIME := 83333 ps;
+
+    Process Sim_finished()
+    {
+        wait for 100000 us;
+        finished <= '1';
+        wait;
+    }
+
+    NewComponent ArithmeticUnit
+    (
+        r1 => r1,
+        r2 => r2,
+        r3 => r3,
+        opcode => opcode,
+        clk => clk,
+        rst => rst,
+    );
+
+    SIGNAL r1 : STD_LOGIC_VECTOR (31 downto 0);
+    SIGNAL r2 : STD_LOGIC_VECTOR (31 downto 0);
+    SIGNAL r3 : STD_LOGIC_VECTOR (31 downto 0);
+    SIGNAL opcode : STD_LOGIC_VECTOR (3 downto 0);
+    SIGNAL clk : STD_LOGIC ;
+    SIGNAL rst : STD_LOGIC ;
+
+}

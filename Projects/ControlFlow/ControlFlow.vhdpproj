@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="ControlFlow.vhd" />
+    <File Include="ControlFlow_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>ControlFlow.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

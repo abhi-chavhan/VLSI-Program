@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="MemoryAccess.vhd" />
+    <File Include="MemoryAccess_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>MemoryAccess.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

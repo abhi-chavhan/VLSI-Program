@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="FFT.vhd" />
+    <File Include="FFT_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>FFT.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>
